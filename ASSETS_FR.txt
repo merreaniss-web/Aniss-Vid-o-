@@ -1,0 +1,13 @@
+BIBLIOTHEQUE VISUELLE ANISS STUDIO
+==================================
+
+Contenu fourni dans assets/stock :
+- 2 arrière-plans vidéo animés 1920×1080, 30 FPS, MP4.
+- 24 fonds graphiques abstraits JPG haute résolution (HD et 4K selon le visuel).
+
+Les arrière-plans ont été générés de manière procédurale pour ce projet : dégradés
+colorés, halos, grain fin, cercles et tracés géométriques. Ils sont fournis comme
+éléments de création personnels, sans musique ni images de personnes réelles.
+
+Les fichiers restent dans le dossier assets/stock. Ne les renommez pas et ne les
+déplacez pas séparément de index.html, app.js et styles.css.

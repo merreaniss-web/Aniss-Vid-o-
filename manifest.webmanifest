@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "ANISS STUDIO — Éditeur vidéo",
+  "short_name": "ANISS STUDIO",
+  "description": "Éditeur vidéo multipiste personnel, local et installable.",
+  "lang": "fr-FR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080a10",
+  "theme_color": "#090b12",
+  "orientation": "any",
+  "icons": [
+    { "src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
